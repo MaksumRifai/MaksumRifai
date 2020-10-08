@@ -1,6 +1,16 @@
 # Maksum Rifai
 > "Enthusiast in Tech, Programming, Design, Education, Journalism, Languages, Communities, Startups, Etc."
 
+### Career
+- QA Engineer At <a href="http://en.speechocean.com/welcome.html"><img src="http://en.speechocean.com/bocweb/web/img/bocweb-logo.png?v=v18" width="200"></a>
+- Journalist At <a href="http://www.sku-suarakeadilan.com/"><img src="http://www.sku-suarakeadilan.com/wp-content/uploads/2019/01/logo-SKU-Suara-Keadilan.jpeg" width="200"></a>
+- SPV Engineer At <a href="https://penthouse.co.id/"><img src="https://static.wixstatic.com/media/fddbcf_583caab616fe4a85b2fe7bb1df8debda~mv2.png/v1/fill/w_158,h_62,al_c,q_85,usm_0.66_1.00_0.01/penhouse%20interior%20logo-07.webp" width="150"></a>
+- QA Officer At <a href="http://www.asahi-kokusai-techneion.co.jp/akt_en/index.html"><img src="http://www.asahi-kokusai-techneion.co.jp/akt_en/_src/12425/akt250_en_24.png" width="200"></a> For <a href="https://www.jakartamrt.co.id/mengenai-proyek/"><img src="https://www.jakartamrt.co.id/wp-content/uploads/2017/05/logo-mrt-344-121-png24.png" width="150"></a>
+- QA Head At <a href="#"><img src="https://1.bp.blogspot.com/-ypEMc17h73I/VvOG4XsSwLI/AAAAAAAADus/tAFD80ZFP4gSWvqNj1nhw6oczx9_5zpnw/s790/IPT_NEW.png" width="75"></a>
+- GA Officer At <a href="http://www.pt-mum.com/"><img src="http://www.pt-mum.com/uploads/3/9/5/5/39553507/1414226638.png" width="150"></a> And <a href="http://www.adidayanirbatas.com/"><img src="http://www.adidayanirbatas.com/uploads/3/9/5/5/39553507/published/logo-an-weeb.png?1598411024" width="150"></a>
+
+
+
 ### Profile
 
 [maksumrifai.github.io](https://maksumrifai.github.io) | [maksumrifai.wordpress.com](https://maksumrifai.wordpress.com) | [maksumrifai.blogspot.com](https://maksumrifai.blogspot.com) | [maksumrifai.adobe.com](https://maksumrifai.myportfolio.com)
