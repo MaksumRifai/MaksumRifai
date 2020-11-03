@@ -22,6 +22,7 @@
 
 ### Certificates
 
+- [SkillAcademy : Penggunaan Agile & Scrum untuk Development Project](https://drive.google.com/file/d/1GtnV_-IW3nzIyvtAUf87Zi3IW_Tkm4KS/view?usp=drivesdk)
 - [Arkademi : Mendirikan Startup dan Cara Membagi Saham](https://drive.google.com/file/d/1Fxy22dazEc5lbRXx-eUzhNgkKCeTbTBF/view?usp=drivesdk)
 - [Arkademi : Belajar Design Thinking Untuk Membuat Proyek dan Bisnis yang Menguntungkan](https://drive.google.com/file/d/1448SyMiH_qkUQaO0zjLGSk7rGBCP5IQY/view?usp=drivesdk)
 - [Digital Talent Kominfo : Digital Skills Microsoft](https://drive.google.com/file/d/1-aDrnmT9mFdOCXrWKB4igKWQwJAPXfhP/view?usp=drivesdk)
