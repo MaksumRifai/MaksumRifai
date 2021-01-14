@@ -20,6 +20,14 @@
 | [Behance](https://behance.net/maksumrifai)
 | [Crowdin](https://crowdin.com/profile/maksum.rifai)
 
+[CodePen](https://codepen.io/maksumrifai)
+| [SoloLearn](https://www.sololearn.com/Profile/1184504)
+| [Trinket](https:maksumrifai.trinket.io)
+
+### Skills/Tools
+
+Google Marketing Platform, Google Cloud Platform, Google Search Console, Bing Webmaster Tool, Facebook Business, Facebook Developer, Adobe Creative Cloud, Inkscape, Corel, Figma, Atlassian Jira/Trello, Agile Scrum, Microsoft Office, Microsoft Digital Skills, Web Hosting & Programming, Wordpress, MagicaVoxel, And Other Countless Tools and Skills.
+
 ### Certificates
 
 - [SkillAcademy : Penggunaan Agile & Scrum untuk Development Project](https://drive.google.com/file/d/1GtnV_-IW3nzIyvtAUf87Zi3IW_Tkm4KS/view?usp=drivesdk)
