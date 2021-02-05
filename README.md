@@ -54,3 +54,30 @@ Google Marketing Platform, Google Cloud Platform, Google Search Console, Bing We
 
 ### Support Me
 <a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
+
+### Github Stats
+Account age: **{{ ACCOUNT_AGE }}** years
+
+Pushed **{{ COMMITS }}** commits
+
+Opened **{{ ISSUES }}** issues
+
+Submitted **{{ PULL_REQUESTS }}** pull requests
+
+Received **{{ STARS }}** stars
+
+Own **{{ REPOSITORIES }}** repositories
+
+Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+
+Top 8 most used languages across your repositories:
+
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
+
+Top 4 most used languages across your repositories:
+
+{{ LANGUAGE_TEMPLATE_START:max=4 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
