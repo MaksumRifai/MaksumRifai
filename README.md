@@ -9,8 +9,6 @@
 - QA Head At <a href="#"><img src="https://1.bp.blogspot.com/-ypEMc17h73I/VvOG4XsSwLI/AAAAAAAADus/tAFD80ZFP4gSWvqNj1nhw6oczx9_5zpnw/s790/IPT_NEW.png" width="55"></a>
 - GA Officer At <a href="http://www.pt-mum.com/"><img src="http://www.pt-mum.com/uploads/3/9/5/5/39553507/1414226638.png" width="100"></a> And <a href="http://www.adidayanirbatas.com/"><img src="http://www.adidayanirbatas.com/uploads/3/9/5/5/39553507/published/logo-an-weeb.png?1598411024" width="100"></a>
 
-
-
 ### Profile
 
 [maksumrifai.github.io](https://maksumrifai.github.io) | [maksumrifai.wordpress.com](https://maksumrifai.wordpress.com) | [maksumrifai.blogspot.com](https://maksumrifai.blogspot.com) | [maksumrifai.adobe.com](https://maksumrifai.myportfolio.com)
@@ -27,6 +25,11 @@
 ### Skills/Tools
 
 Google Marketing Platform, Google Cloud Platform, Google Search Console, Bing Webmaster Tool, Facebook Business, Facebook Developer, Adobe Creative Cloud, Inkscape, Corel, Figma, Atlassian Jira/Trello, Agile Scrum, Microsoft Office, Microsoft Digital Skills, Web Hosting & Programming, Wordpress, MagicaVoxel, And Other Countless Tools and Skills.
+
+### Github Stats
+![Maksum Rifai's github stats](https://github-readme-stats.vercel.app/api?username=maksumrifai&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksumrifai&layout=compact&langs_count=10&theme=vue)](https://github.com/maksumrifai/)
 
 ### Certificates
 
