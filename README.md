@@ -22,7 +22,7 @@
 | [Figma](https://figma.com/@maksumrifai)
 | [CodePen](https://codepen.io/maksumrifai)
 | [SoloLearn](https://www.sololearn.com/Profile/1184504)
-| [Trinket](https:maksumrifai.trinket.io)
+| [Trinket](https://maksumrifai.trinket.io)
 
 ### Skills/Tools
 
