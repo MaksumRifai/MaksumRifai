@@ -18,7 +18,9 @@
 | [Behance](https://behance.net/maksumrifai)
 | [Crowdin](https://crowdin.com/profile/maksum.rifai)
 
-[CodePen](https://codepen.io/maksumrifai)
+[Dev.to](https://dev.to/maksumrifai)
+| [Figma](https://figma.com/@maksumrifai)
+| [CodePen](https://codepen.io/maksumrifai)
 | [SoloLearn](https://www.sololearn.com/Profile/1184504)
 | [Trinket](https:maksumrifai.trinket.io)
 
