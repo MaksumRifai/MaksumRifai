@@ -35,9 +35,10 @@ Google Marketing Platform, Google Cloud Platform, Google Search Console, Bing We
 
 ### Certificates
 
+- [Ekipa.co : Indonesia Scrum Master](https://drive.google.com/file/d/1ooa9uc4GXVMDAkLM8RgtCUJwDl6iOMnp/view?usp=drivesdk)
 - [SkillAcademy : Penggunaan Agile & Scrum untuk Development Project](https://drive.google.com/file/d/1GtnV_-IW3nzIyvtAUf87Zi3IW_Tkm4KS/view?usp=drivesdk)
 - [Arkademi : Mendirikan Startup dan Cara Membagi Saham](https://drive.google.com/file/d/1Fxy22dazEc5lbRXx-eUzhNgkKCeTbTBF/view?usp=drivesdk)
-- [Arkademi : Belajar Design Thinking Untuk Membuat Proyek dan Bisnis yang Menguntungkan](https://drive.google.com/file/d/1448SyMiH_qkUQaO0zjLGSk7rGBCP5IQY/view?usp=drivesdk)
+- [G2 Academy : Belajar Design Thinking Untuk Membuat Proyek dan Bisnis yang Menguntungkan](https://drive.google.com/file/d/1448SyMiH_qkUQaO0zjLGSk7rGBCP5IQY/view?usp=drivesdk)
 - [Digital Talent Kominfo : Digital Skills Microsoft](https://drive.google.com/file/d/1-aDrnmT9mFdOCXrWKB4igKWQwJAPXfhP/view?usp=drivesdk)
 - [Hacktiv8: Frontend Web Development](https://drive.google.com/file/d/1VVphKMVo_Pzv2dTZND0PBaC855c820OI/view?usp=drivesdk)
 - [Future Learn: An Introduction to Python for Educators by Raspberry Pi Foundation](https://drive.google.com/file/d/1z9-E3Rg-hi1I9852rinhMpTeMkHVZrA1/view?usp=drivesdk)
