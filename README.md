@@ -29,9 +29,9 @@
 Google Marketing Platform, Google Cloud Platform, Google Search Console, Bing Webmaster Tool, Facebook Business, Facebook Developer, Adobe Creative Cloud, Inkscape, Corel, Figma, Atlassian Jira/Trello, Agile Scrum, Microsoft Office, Microsoft Digital Skills, Web Hosting & Programming, Wordpress, MagicaVoxel, And Other Countless Tools and Skills.
 
 ### Github Stats
-![Maksum Rifai's github stats](https://github-readme-stats.vercel.app/api?username=maksumrifai&show_icons=true&theme=vue)
+![Maksum Rifai's github stats](https://github-readme-stats.vercel.app/api?username=maksumrifai&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksumrifai&layout=compact&langs_count=10&theme=vue)](https://github.com/maksumrifai/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksumrifai&layout=compact&langs_count=6&theme=react)](https://github.com/maksumrifai/)
 
 ### Certificates
 
