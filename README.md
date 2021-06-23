@@ -2,6 +2,7 @@
 > "Enthusiast in Tech, Programming, Design, Education, Journalism, Languages, Communities, Startups, Etc."
 
 ### Career
+- QA Engineer At <a href="https://pazemo.com"><img src="https://raw.githubusercontent.com/Pazemo/docs/main/source/images/pazemo-wide.png" width="100"></a>
 - QA Engineer At <a href="http://en.speechocean.com/welcome.html"><img src="http://en.speechocean.com/bocweb/web/img/bocweb-logo.png?v=v18" width="100"></a>
 - Journalist At <a href="http://www.sku-suarakeadilan.com/"><img src="http://www.sku-suarakeadilan.com/wp-content/uploads/2019/01/logo-SKU-Suara-Keadilan.jpeg" width="100"></a>
 - SPV Engineer At <a href="https://penthouse.co.id/"><img src="https://static.wixstatic.com/media/fddbcf_583caab616fe4a85b2fe7bb1df8debda~mv2.png/v1/fill/w_158,h_62,al_c,q_85,usm_0.66_1.00_0.01/penhouse%20interior%20logo-07.webp" width="100"></a>
