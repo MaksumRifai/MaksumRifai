@@ -36,6 +36,7 @@ Google Marketing Platform, Google Cloud Platform, Google Search Console, Bing We
 
 ### Certificates
 
+- [Ekipa.co : Indonesia Product Owner](https://drive.google.com/file/d/1Sb0AgDmnEn9u1ZIMC4vLi3pTDk6UPfuW/view?usp=sharing)
 - [Ekipa.co : Indonesia Scrum Master](https://drive.google.com/file/d/1ooa9uc4GXVMDAkLM8RgtCUJwDl6iOMnp/view?usp=drivesdk)
 - [SkillAcademy : Penggunaan Agile & Scrum untuk Development Project](https://drive.google.com/file/d/1GtnV_-IW3nzIyvtAUf87Zi3IW_Tkm4KS/view?usp=drivesdk)
 - [Arkademi : Mendirikan Startup dan Cara Membagi Saham](https://drive.google.com/file/d/1Fxy22dazEc5lbRXx-eUzhNgkKCeTbTBF/view?usp=drivesdk)
