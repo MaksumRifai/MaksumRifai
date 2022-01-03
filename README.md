@@ -53,7 +53,7 @@ Google Marketing Platform, Google Cloud Platform, Google Search Console, Bing We
 - [See All Certificates](https://drive.google.com/folderview?id=1IvvNiIHD3zsrGPze9V3qQ-iMCLd3lbeT)
 
 ### Founder/Lead
-<a href="https://github.com/desainerhub"><img src="https://avatars1.githubusercontent.com/u/59643490?s=200&v=4" width="100"></a> <a href="https://github.com/Bekasi-Dev-Community"><img src="https://avatars0.githubusercontent.com/u/66513686?s=200&v=4" width="100"></a>
+<a href="https://github.com/desainerhub"><img src="https://avatars1.githubusercontent.com/u/59643490?s=200&v=4" width="100"></a> <a href="https://github.com/BekasiDev"><img src="https://avatars0.githubusercontent.com/u/66513686?s=200&v=4" width="100"></a>
 
 ### Volunteer/Contributor
 <a href="https://github.com/fbdevelopercircles"><img src="https://avatars0.githubusercontent.com/u/38020791?s=200&v=4" width="100"></a><a href="https://github.com/devcjakarta"><img src="https://avatars1.githubusercontent.com/u/31909167?s=200&v=4" width="100"></a><a href="https://github.com/WordPress"><img src="https://avatars2.githubusercontent.com/u/276006?s=200&v=4" width="100"></a><a href="https://crowdin.com/profiles/maksum.rifai"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" width="100"></a>
